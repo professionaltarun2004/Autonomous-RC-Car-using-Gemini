@@ -9,7 +9,7 @@ const char* ssid = "WIFI_SSID";
 const char* password = "WIFI_PASSWORD";
 
 // API Credentials
-const char* Gemini_Token = "AIzaSyDP6tiA-3TRm3zYFxy3fe3iZVcT6Mpu638";
+const char* Gemini_Token = "GEMINI_API";
 const char* Gemini_Max_Tokens = "100";
 
 String res = "";
