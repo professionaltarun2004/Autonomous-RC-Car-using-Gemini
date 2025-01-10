@@ -5,8 +5,8 @@
 #include <LiquidCrystal.h>
 
 // WiFi Credentials
-const char* ssid = "Hotspot kavalentra";
-const char* password = "Botarun@123";
+const char* ssid = "WIFI_SSID";
+const char* password = "WIFI_PASSWORD";
 
 // API Credentials
 const char* Gemini_Token = "AIzaSyDP6tiA-3TRm3zYFxy3fe3iZVcT6Mpu638";
